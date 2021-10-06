@@ -24,6 +24,7 @@
 
 /*Configurando background-image*/
 #back{
+    text-align: center;
     width: 500px;
     height: 450px;
     background-image: url(img/fundo.jpg);
@@ -67,7 +68,7 @@
 
 /*Configurando box-sizing e content-box */
 #sizing{
-    margin: 20px;
+    margin: 20px 20px 50px 20px;
     box-sizing: border-box;
     width: 500px;
     height: 400px;
